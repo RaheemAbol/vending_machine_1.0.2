@@ -17,18 +17,8 @@ Practice project to solidify your java skills using collections(Maps) w/exceptio
 - Update the setter methods for `name` and `price`.
 - Ensure proper exception messages are provided.
 
-**Ticket 2: Implement Error Handling in Snack Class**
 
-**Description:** Update the `Snack` class to include error handling for its constructor and methods.
-- **Constructor:**
-  - Ensure it calls the superclass constructor which has error handling.
-- **Setters:**
-  - No additional error handling needed.
-
-**Tasks:**
-- Ensure the `Snack` class constructor correctly calls the `Product` superclass constructor with error handling.
-
-**Ticket 3: Implement Error Handling in Beverage Class**
+**Ticket 2: Implement Error Handling in Beverage Class**
 
 **Description:** Update the `Beverage` class to include error handling in the constructor and setter methods.
 - **Constructor:**
