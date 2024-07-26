@@ -31,7 +31,7 @@ Practice project to solidify your java skills using collections(Maps) w/exceptio
 - Update the setter methods for `flOunces`.
 - Ensure proper exception messages are provided.
 
-**Ticket 4: Implement Error Handling in Slot Class**
+**Ticket 3: Implement Error Handling in Slot Class**
 
 **Description:** Update the `Slot` class to include error handling in the constructor and setter methods.
 - **Constructor:**
@@ -44,7 +44,7 @@ Practice project to solidify your java skills using collections(Maps) w/exceptio
 - Update the setter methods for `product` and `quantity`.
 - Ensure proper exception messages are provided.
 
-**Ticket 5: Implement Error Handling in VendingMachine Class**
+**Ticket 4: Implement Error Handling in VendingMachine Class**
 
 **Description:** Update the `VendingMachine` class to include error handling in its methods.
 - **Methods:**
@@ -56,7 +56,7 @@ Practice project to solidify your java skills using collections(Maps) w/exceptio
 - Update the `dispenseProduct` method to include error handling.
 - Ensure proper exception messages are provided.
 
-**Ticket 6: Demonstrate Error Handling in VendRunner Class**
+**Ticket 5: Demonstrate Error Handling in VendRunner Class**
 
 **Description:** Update the `VendRunner` class to demonstrate error handling by intentionally passing invalid data to constructors and methods.
 
